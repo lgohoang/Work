@@ -31,5 +31,6 @@ namespace Word.Models
         }
         public DbSet<UserManager> UserManager { get; set; }
         public DbSet<News> News { get; set; }
+        public DbSet<History> history { get; set; }
     }
 }
