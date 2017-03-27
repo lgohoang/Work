@@ -29,5 +29,7 @@ namespace Word.Models
         {
             return new ApplicationDbContext();
         }
+        public DbSet<UserManager> UserManager { get; set; }
+        public DbSet<News> News { get; set; }
     }
 }
