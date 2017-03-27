@@ -73,3 +73,5 @@ E:\Software\WEB\CheckErrorWord\Work\Word\bin\Microsoft.Owin.Security.MicrosoftAc
 E:\Software\WEB\CheckErrorWord\Work\Word\obj\Debug\Word.dll
 E:\Software\WEB\CheckErrorWord\Work\Word\obj\Debug\Word.pdb
 E:\Software\WEB\CheckErrorWord\Work\Word\obj\Debug\Word.csprojResolveAssemblyReference.cache
+E:\Software\WEB\CheckErrorWord\Work\Word\obj\Debug\Word.Migrations.hieulm.resources
+E:\Software\WEB\CheckErrorWord\Work\Word\obj\Debug\Word.csproj.GenerateResource.Cache

@@ -22,4 +22,9 @@ select,
 textarea {
     max-width: 280px;
 }
-.colorlink{color:#fff !important;}
+.navbar-nav li a {
+    color: #fff;
+}
+#mainNav{
+    font-weight:bold;
+}
